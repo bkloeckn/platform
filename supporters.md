@@ -1,5 +1,6 @@
 Add your details here to be listed publicly as a supporter of Project FOK. We'll use this list to 
-show general support for the project on the website and also in letters of inquiry to funders.
+show general support for the project on the website and also in letters of inquiry to funders. If you 
+represent an organisation that would be willing to show support, please get in touch directly. 
 
 Name | Institution | Research Field/s | Website
 --- | --- | --- | --- 
