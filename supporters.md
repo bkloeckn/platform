@@ -10,3 +10,4 @@ Eelke Spaak | Donders Institute | Cognitive Neuroscience | http://eelkespaak.nl/
 Jon Tennant | Open Science MOOC, IGDORE | Paleontology | http://fossilsandshit.com/
 Vincent Larivière | l’Université de Montréal | Bibliometrics | https://crc.ebsi.umontreal.ca/en/
 Björn Brembs | Universität Regensburg | Neurobiology | http://brembs.net/
+Benoît Kloeckner | Université Paris-Est Créteil | Mathematics | http://perso-math.univ-mlv.fr/users/kloeckner.benoit/index.html
